@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+@import 'https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900|Montserrat:300,400,500,600,700,800,900';
+@import 'assets/app-assets/fonts/font-awesome/css/font-awesome.min.css';
+@import 'assets/app-assets/fonts/feather/style.min.css';
+@import 'assets/app-assets/vendors/css/perfect-scrollbar.min.css';
+@import 'assets/app-assets/vendors/css/prism.min.css';
+@import 'assets/app-assets/vendors/css/chartist.min.css';
+@import 'assets/app-assets/css/app.css';
